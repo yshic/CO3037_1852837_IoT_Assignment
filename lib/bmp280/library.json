@@ -1,0 +1,15 @@
+{
+  "name": "BMP280 Sensor Library",
+  "keywords": "bmp280, sensor, i2c, atmospheric pressure, environment",
+  "description": "Provides functions to initialize, read BMP280 sensor and various other ultilities functions.",
+  "authors": [
+    {
+      "name": "Tuan Nguyen",
+      "email": "tuanl799@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Light Sensor Library",
+  "keywords": "light, sensor",
+  "description": "A library for interfacing with light sensors.",
+  "authors": [
+    {
+      "name": "Tuan Nguyen",
+      "email": "tuanl799@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

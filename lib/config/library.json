@@ -1,0 +1,15 @@
+{
+  "name": "Global Drivers Configuration Library",
+  "keywords": "configuration, setting",
+  "description": "Provide configuration for all the drivers in the XIAO SENSE dev kit",
+  "authors": [
+    {
+      "name": "Tuan Nguyen",
+      "email": "tuanl799@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

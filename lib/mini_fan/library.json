@@ -1,0 +1,15 @@
+{
+  "name": "Mini Fan Module Library",
+  "keywords": "fan, motor, control",
+  "description": "A library for interfacing with mini fan module.",
+  "authors": [
+    {
+      "name": "Tuan Nguyen",
+      "email": "tuanl799@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

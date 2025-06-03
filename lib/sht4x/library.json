@@ -1,0 +1,15 @@
+{
+  "name": "SHT4X Sensor Library",
+  "keywords": "sht4x, sht40, sensor, i2c, temperature, humidity",
+  "description": "Provides functions to initialize, read SHT4x sensor and various other ultilities functions.",
+  "authors": [
+    {
+      "name": "Tuan Nguyen",
+      "email": "tuanl799@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
